@@ -1,0 +1,29 @@
+* {
+    /* box-sizing: border-box; */
+}
+
+h1 {
+    text-align: center;
+
+    background-color: blue;
+    border-radius: 8px;
+    color: lime;
+
+
+}
+
+.container-flex {
+
+    display: grid;
+    place-items: center;
+    /* min-height: 100vh; */
+}
+
+
+body {
+    background-color: blueviolet;
+
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
